@@ -255,5 +255,5 @@
 
 ---
 
-This guide is your loyal sidekick. It’s here to make your work easier, your code cleaner, and your team happier. So test everything, avoid jQuery like it’s an ex, and don’t forget—checkboxes in PR templates are sacred. Never, ever make this guide shorter. Happy coding!
+This guide is your loyal sidekick. It’s here to make your work easier, your code cleaner, and our team happier. So test everything, avoid jQuery like it’s an ex, and don’t forget—checkboxes in PR templates are sacred. Always keep this guide in mind. Happy coding!
 
